@@ -78,10 +78,12 @@ public class Picture
             background1.makeVisible();
             background1.changeColor("black");
             
-            monolith1;
-            human1;
-            sharp1;
-            sun1;
+            //monolith1;
+            //monolith2;
+            //monolith3;
+            //human1;
+            //sharp1;
+            //sun1;
             
 
     
@@ -105,7 +107,6 @@ public class Picture
     public void setBlackAndWhite()
     {
         background1.changeColor("white");
-        window.changeColor("white");
         roof.changeColor("black");
         sun.changeColor("black");
     }
